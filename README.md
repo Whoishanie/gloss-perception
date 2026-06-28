@@ -6,14 +6,14 @@
 
 **Author:** Hanieh Amiryousefi  
 **Email:** hanieh.amiryousefi.varnosfaderani@stud.uni-giessen.de  
-**LinkedIn:** [hanie-amiryousefi](https://www.linkedin.com/in/hanie-amiryousefi)  
+**LinkedIn:** [hanieh-amiryousefi](https://www.linkedin.com/in/hanie-amiryousefi)  
 **University:** Justus Liebig University Giessen
 
 ---
 
 ## Overview
 
-This repository contains two deep learning projects investigating **how well neural networks capture human gloss perception** — the way we judge how shiny a surface looks.
+This repository contains two deep learning projects investigating **how well neural networks capture human gloss perception**, the way we judge how shiny a surface looks.
 
 The core question is: *can a neural network learn to rank surfaces by glossiness in the same order as human observers?* This is called **biological plausibility** and is measured using Pearson / Spearman correlation between model predictions and human ratings.
 
