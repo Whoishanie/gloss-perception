@@ -39,7 +39,7 @@ gloss-perception/
 
 ## Projects
 
-### Project 1 — GlossTinyNet: Training a CNN from Scratch
+### Project 1 ,GlossTinyNet: Training a CNN from Scratch
 
 > *Can a small CNN trained directly on human gloss ratings learn a biologically plausible representation?*
 
@@ -60,7 +60,7 @@ A lightweight 4-layer CNN trained end-to-end to predict human gloss ratings from
 
 ---
 
-### Project 2 — Layer Probing ResNet-50 for Gloss Perception
+### Project 2 , Layer Probing ResNet-50 for Gloss Perception
 
 > *Which layer of a pretrained ResNet-50 best captures human gloss perception — and does it match or exceed a model trained specifically on gloss?*
 
