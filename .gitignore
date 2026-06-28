@@ -1,0 +1,29 @@
+# Data — never upload the dataset
+data/
+*.csv
+*.mat
+*.png
+*.jpg
+*.jpeg
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Model weights
+*.pt
+*.pth
+*.ckpt
