@@ -6,7 +6,7 @@
 
 **Author:** Hanieh Amiryousefi  
 **Email:** hanieh.amiryousefi.varnosfaderani@stud.uni-giessen.de  
-**LinkedIn:** [hanieh-amiryousefi](https://www.linkedin.com/in/hanie-amiryousefi)  
+**LinkedIn:** [hanie-amiryousefi](https://www.linkedin.com/in/hanie-amiryousefi)  
 **University:** Justus Liebig University Giessen
 
 ---
